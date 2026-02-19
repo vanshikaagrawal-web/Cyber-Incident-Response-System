@@ -1,6 +1,0 @@
-networkx
-matplotlib
-PyOD
-fastapi
-elasticsearch
-torch
