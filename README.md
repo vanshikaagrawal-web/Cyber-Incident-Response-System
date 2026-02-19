@@ -65,7 +65,7 @@ By transitioning from alert-centric analysis to incident-centric intelligence, t
 
 The presentation for Round 1 of the Hack-O-Hire Hackathon is available below:
 
-- 👉 [View Round 1 PPT on Canva](https://www.canva.com/design/DAHBSenuT5w/egtnk8q42OkWFZdbyY95Mw/edit?utm_content=DAHBSenuT5w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 👉 [View Round 1 PPT](TechByte_CCOEW_190226.pptx)
 
 
 
